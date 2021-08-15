@@ -7,5 +7,6 @@ The following tasks are performed in a biomedical system:
 4.	Design a state space controller based on either the linear quadratic or pole placement approach. In addition, design a state observer.
 5.	Analyse the controller design and record the obtained results as necessary. 
 
-
-
+#### [Assignment_bioreactor_5.pdf](https://github.com/MdSaifulIslamSajol/Designing-and-analyzing-a-Bioreactor-system-and-observe-system-behavior-using-MATLAB/blob/b8c52dff7b7b8bfb8b42fe90a18b7aec8e0a60dc/Assignment_bioreactor_5.pdf) explains the system and tasks list.
+#### [Bioreactor(5)_Report.pdf](https://github.com/MdSaifulIslamSajol/Designing-and-analyzing-a-Bioreactor-system-and-observe-system-behavior-using-MATLAB/blob/b8c52dff7b7b8bfb8b42fe90a18b7aec8e0a60dc/Bioreactor(5)_Report.pdf) is the detailed report of the project.
+#### Other files belong to MATLAB
